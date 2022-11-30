@@ -7,14 +7,15 @@
 
 #include "Robot.h"
 
+
 #include <iostream>
 //Vars
 /*bool m_AButton = false;
 frc::DoubleSolenoid::Value m_desiredGear = frc::DoubleSolenoid::Value::kForward;*/
 
 
-Robot::Robot(): {}
-{}
+Robot::Robot() {}
+
 
 void Robot::robotInit() {
   
@@ -25,7 +26,7 @@ void Robot::teleopInit() {}
 void Robot::teleop() {
   
   }
-}
+
 
 void Robot::testInit() {}
 

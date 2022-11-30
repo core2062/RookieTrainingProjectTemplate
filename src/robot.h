@@ -11,7 +11,6 @@
 
 #include <ctre/Phoenix.h>
 #include <CORERobotLib.h>
-#include <COREFramework/COREScheduler.h>
 #include <frc/DoubleSolenoid.h>
 #include <frc/Compressor.h>
 using namespace frc;
